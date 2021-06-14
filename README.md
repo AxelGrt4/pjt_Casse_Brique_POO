@@ -8,8 +8,8 @@ Pour ce projet nous avons retenu la présentation en mode CLI après avoir perdu
 Le programme n'est pas fonctionnel à 100%, notamment à cause de petits problèmes au niveau de la gestion des collisions, mais il contient toutes les méthodes
 permettant le déroulement d'une partie de casse brique.
 
-Merci de nouus avoir lu,
+Merci de nous avoir lu,
 l'équipe CSI - Confédération des Systèmes Indépendants (oui, nous aimons Star Wars)
 FERDINAND Justin C1
-RHUIN Maël C1
+RHUIN Maël C2
 GORET Axel C1
